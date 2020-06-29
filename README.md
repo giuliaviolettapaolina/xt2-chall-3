@@ -1,4 +1,4 @@
-# xt2-chall-3
+# XT2 Challenge 3
 
 IxD & Technology 2 - challenge 2
 
