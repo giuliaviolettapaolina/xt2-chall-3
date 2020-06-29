@@ -2,4 +2,4 @@
 
 IxD & Technology 2 - challenge 2
 
-klik [hier](https://juliangw98.github.io/challenge-3/)
+klik [hier](https://giuliaviolettapaolina.github.io/xt2-chall-3/)
