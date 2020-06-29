@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <link href="style.css" rel="stylesheet" /> </head>
+
+<body>
+    <div id="container">
+        <div id="sidebar">
+            <h2>Select your landing Base</h2>
+            <div>
+                <button id="getWeather0">Homebase</button>
+                <button id="getWeather1">Orlando</button>
+                <button id="getWeather2">Mahia</button>
+            </div>
+            <h2>Weather predictions</h2>
+            <p id="weather"></p>
+        </div>
+        <div id="map"></div>
+    </div>
+    <script src="javascript.js">
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxA82FXbjKeM1gSHFYOv9rcoAYZ8ydMbw&callback=initMap"></script>
+</body>
+
+</html>
